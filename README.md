@@ -1,28 +1,37 @@
-# EDA Project
+## Stock-trading Backtest
+In this project, we developed investment portfolio in order to secure stable funds after retirement.
 
-## 팀구성
-- 이태헌
-- 김희주
+### team: 이태헌, 김희주
+
+### Data : [Investing.com](https://www.investing.com/)
+Index 
+
+    Index: SP_Index, Interm_Index, Longterm_Index, Commodity_Index, Gold_Index
+    feature : weekly data
+    period: 1996.07.01 ~ 2020.06.29(25 years)
+    
+ETF    
+
+    ETF: SPY, IEF, TLT, DBC, GLD
+    feature: weakly data
+    period: 2006.06.26 ~ 2020.06.29(15 years)
+
 
 ## Goals
-- 노인빈곤율을 낮출 수 있도록 은퇴 후 안정적인 자금 확보를 위한 투자 포트폴리오를 개발한다.
-- 96년도 7월부터 20년도 6월까지의 데이터를 백테스트함으로써 전통적인 올웨더포트폴리오보다 수익률 측면에서 더높고 안정적인 자산 배분 포트폴리오 찾기
+Improve Better profitable investment portforlio than Traditional All-weather portforlio.
 
-## 문제 정의
-- 노인빈곤율
-  - OECD가 적용하고 있는 기준에 따라 전체인구 대상 가처분소득 중위 값의 절반에 미달하는 고령층이 전체 고령층에서 차지하는 비율
-  - 우리나라 2인 가구 기준 중위소득이 2017년 280만원 내외 수준 임에 따라 월 140만원 소득에 미치지 못하는 가구가 상대적 빈곤층으로 분류된다.
+## Backtesting
+*
+*
+*
 
-## 데이터 전처리
-  ### 데이터
-  - 1996년도 7월 ~ 2020년도 6월까지의 주간 Index, ETF 데이터 활용
-  - 
-  ### 포트폴리오 구성
+### Steps for backtesting 
+* Define strategy
+* Back Test using historical data
+* Result Analysis
+* Develop portfolio on result analysis
+* Compare profit,volatility prediction
 
-  ### New 자산배분 포트폴리오 구성
+### Limitations
 
-## 퇴직연금펀드
-
-  ### 퇴직연금펀드의 기대수익률과 위험성
-
-## 결론
+## Future improvements
