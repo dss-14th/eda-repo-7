@@ -1,4 +1,4 @@
-## Stock-Trading Backtest
+# Stock-Trading Backtesting and Data Analysis
 In this project, we developed investment portfolio in order to secure stable funds after retirement. The purpose of this project is to improve profitable investment portforlio than Traditional All-weather portforlio.This project based on Data Mining and Economic statistics.
 
 #### team: 이태헌, 김희주
