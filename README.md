@@ -72,9 +72,9 @@ ETF
 ![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
 ## Retirement Fund
-- To launch a service with the new all weather portfolio
+- To launch a service with the All-weather portfolio 4
 - The fund consists of the sum of ETF assets' price after dividing by 500.
-- Prices are based on ratio of the New all weather portfolio.
+- Prices are based on ratio of the All-weather portfolio 4.
 ![Screen Shot 2020-10-26 at 23 59 50](https://user-images.githubusercontent.com/68367134/97188822-4821f000-17e7-11eb-91fa-51fb6c55f947.png)
 
 ### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
@@ -99,8 +99,10 @@ ETF
 ![Screen Shot 2020-10-27 at 0 06 55](https://user-images.githubusercontent.com/68367134/97189772-4c9ad880-17e8-11eb-8a2f-3387957e53ef.png)
 
 ## Conclusion
-- what would the expected return if a person who start to invest our retirement fund from 30-year old to 59-year old? 
-- assumption
+- It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limits of loosing investment. 
+
+### What would the expected return if a person who start to invest our retirement fund from 30-year old to 59-year old? 
+- Assumption
     1. buying once a year by price on last week of every June
     2. setting up the exchange ratio as 1,100 won to 1 dollar
     3. 4,000,000 wons - 3,637 dollars
