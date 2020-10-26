@@ -1,8 +1,8 @@
 # Stock-Trading Backtesting and Data Analysis
 
-### Develop profitable investment portforlio better than traditional All-weather portfolio
+### Develop profitable asset allocation portforlio better than traditional All-weather portfolio
 
-In this project, we developed investment portfolio in order to secure stable funds after retirement. This project based on Data Mining and Economic statistics.
+In this project, we developed the asset allocation portforlio in order to secure stable funds after retirement. This project based on Data Mining and Economic statistics.
 
 team: 이태헌, 김희주
 
@@ -29,4 +29,12 @@ ETF
     ETF: SPY, IEF, TLT, DBC, GLD
     feature: weakly data
     period: 2006.06.26 ~ 2020.06.29(15 years)
+    
+### Define a Problem : High Relative Poverty Rate for the Elderly
+* Defination of relative elderly poverty rate
+    - The percentage of seniors in the total elderly population that live on less than 50 percent of the equivalised median disposable personal income.
+    - A 2-person household who earns under 1,400,000 wons a month, for example, is classified as a relative elderly poverty in Korea, given that the equivalised median disposable income for 2 peeple was calculated about 2,800,000 wons a month in 2017.
+
+
+
 
