@@ -80,7 +80,7 @@ ETF
 ### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
 #### Perfomance Metrics
 - Yearly Average Log Rate of Return
-![Screen Shot 2020-10-27 at 0 01 56](https://user-images.githubusercontent.com/68367134/97189183-a6e76980-17e7-11eb-8ed2-18ccd745e957.png)
+![Screen Shot 2020-10-27 at 0 16 34](https://user-images.githubusercontent.com/68367134/97190889-a059f180-17e9-11eb-92df-f7e809185df1.png)
 
 - Yearly Average Log Rate of Return for All-weather Portfolio 4
 ![Screen Shot 2020-10-27 at 0 03 17](https://user-images.githubusercontent.com/68367134/97189266-bd8dc080-17e7-11eb-82c9-f8faceeaf98a.png)
