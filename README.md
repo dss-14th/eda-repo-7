@@ -50,5 +50,15 @@ ETF
 
 
 #### Trend Analysis about Rate of Cumulative Return by the Portfolios
+![Screen Shot 2020-10-26 at 23 38 41](https://user-images.githubusercontent.com/68367134/97186200-57536e80-17e4-11eb-955e-f9ee4a33291c.png)
+![Screen Shot 2020-10-26 at 23 38 47](https://user-images.githubusercontent.com/68367134/97186205-58849b80-17e4-11eb-9c49-d2c82c3f3c60.png)
+    
+    * Backtest Result
+    - All_weather portfolio doesn't seem to be the best portfolio in terms of investment, since the rate of cumulative return is 170% over the last 25 years even though it's safer than any others. 
+    - Therefore, we think that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
 
+### New Portfolio
+- increasing the weight of the assets which are more correlated with SP_500(stock) 
+
+* correlation matrix 
 
