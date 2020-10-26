@@ -37,7 +37,7 @@ ETF
 
 ## Data Processing
 
-* comparison rate of cumulative return by asset types
+* comparison about rate of cumulative return by asset types
 ![Screen Shot 2020-10-26 at 23 34 28](https://user-images.githubusercontent.com/68367134/97185701-bbc1fe00-17e3-11eb-9d31-46d8ad0e3895.png)
 
 
@@ -45,5 +45,10 @@ ETF
 - portfolio_1 : stock 100%
 - portfolio_2 : stock 60% + long-term bond 40%
 - portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commidity 7.5% + gold 7.5%
+![Screen Shot 2020-10-26 at 23 36 33](https://user-images.githubusercontent.com/68367134/97185929-06dc1100-17e4-11eb-95c9-7f75cdcb5d45.png)
+
+
+
+#### Trend Analysis about Rate of Cumulative Return by the Portfolios
 
 
