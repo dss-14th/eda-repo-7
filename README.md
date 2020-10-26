@@ -99,7 +99,7 @@ ETF
 ![Screen Shot 2020-10-27 at 0 06 55](https://user-images.githubusercontent.com/68367134/97189772-4c9ad880-17e8-11eb-8a2f-3387957e53ef.png)
 
 ## Conclusion
-- It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limits of loosing investment. 
+- It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
 
 ### What would the expected return if a person who start to invest our retirement fund from 30-year old to 59-year old? 
 - Assumption
