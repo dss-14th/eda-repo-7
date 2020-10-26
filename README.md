@@ -35,7 +35,9 @@ ETF
 ![1](https://user-images.githubusercontent.com/68367134/97185204-20308d80-17e3-11eb-80ba-af56ae278924.png)
 
 ## Data Processing
-- rate of weely return
+- rate of weely return(rwr)
+![Screen Shot 2020-10-26 at 23 31 56](https://user-images.githubusercontent.com/68367134/97185449-6ab20a00-17e3-11eb-8b87-cc77ababbf96.png)
+- rate of cumulative return(rcr)
+![Screen Shot 2020-10-26 at 23 32 03](https://user-images.githubusercontent.com/68367134/97185458-6c7bcd80-17e3-11eb-9b03-e9354a267c87.png)
+- comparison rcr by asset types
 
-
-- rate of cumulative return
