@@ -75,3 +75,8 @@ ETF
 - to launch a service with the new all weather portfolio
 - The fund consists of the sum of ETF assets' price after dividing by 500.
 - Prices are based on ratio of the New all weather portfolio.
+![Screen Shot 2020-10-26 at 23 59 50](https://user-images.githubusercontent.com/68367134/97188822-4821f000-17e7-11eb-91fa-51fb6c55f947.png)
+
+### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
+#### Perfomance Metrics
+- average log rate of return(by a year)
