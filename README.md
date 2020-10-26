@@ -72,11 +72,23 @@ ETF
 ![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
 ## Retirement Fund
-- to launch a service with the new all weather portfolio
+- To launch a service with the new all weather portfolio
 - The fund consists of the sum of ETF assets' price after dividing by 500.
 - Prices are based on ratio of the New all weather portfolio.
 ![Screen Shot 2020-10-26 at 23 59 50](https://user-images.githubusercontent.com/68367134/97188822-4821f000-17e7-11eb-91fa-51fb6c55f947.png)
 
 ### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
 #### Perfomance Metrics
-- average log rate of return(by a year)
+- Yearly Average Log Rate of Return
+![Screen Shot 2020-10-27 at 0 01 56](https://user-images.githubusercontent.com/68367134/97189183-a6e76980-17e7-11eb-8ed2-18ccd745e957.png)
+
+- Yearly Average Log Rate of Return for All-weather Portfolio 4
+![Screen Shot 2020-10-27 at 0 03 17](https://user-images.githubusercontent.com/68367134/97189266-bd8dc080-17e7-11eb-82c9-f8faceeaf98a.png)
+
+#### Risk(Volatility)
+1. Standard Deviation
+- calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
+
+2. Sharpe Ratio
+- ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
+- assumed 'risk-free rate' as 1% interest of Kakao bank saving.
