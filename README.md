@@ -71,3 +71,7 @@ ETF
 ![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
 ![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
+## Retirement Fund
+- to launch a service with the new all weather portfolio
+- The fund consists of the sum of ETF assets' price after dividing by 500.
+- Prices are based on ratio of the New all weather portfolio.
