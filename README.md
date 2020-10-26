@@ -32,3 +32,10 @@ ETF
     
 ### Define a Problem
 * High Relative Poverty Rate for the Elderly in Korea
+![1](https://user-images.githubusercontent.com/68367134/97185204-20308d80-17e3-11eb-80ba-af56ae278924.png)
+
+## Data Processing
+- rate of weely return
+
+
+- rate of cumulative return
