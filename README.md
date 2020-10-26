@@ -60,5 +60,17 @@ ETF
 ### New Portfolio
 - increasing the weight of the assets which are more correlated with SP_500(stock) 
 
-* correlation matrix 
+* Correlation Matrix 
+![Screen Shot 2020-10-26 at 23 44 02](https://user-images.githubusercontent.com/68367134/97187148-84545100-17e5-11eb-8992-461f91ff97bf.png)
+
+* New Portfolio's Composition
+![Screen Shot 2020-10-26 at 23 44 19](https://user-images.githubusercontent.com/68367134/97187167-89190500-17e5-11eb-88e9-afc4ef46af18.png)
+
+#### Trend Analysis about Rate of Cumulative Return by New Portfolios
+![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
+
+
+    * New Backtest Result
+        - All Weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns- 
+![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
