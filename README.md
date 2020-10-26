@@ -88,12 +88,14 @@ ETF
 #### Risk(Volatility)
 1. Standard Deviation
 - calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
+
 ![Screen Shot 2020-10-27 at 0 06 48](https://user-images.githubusercontent.com/68367134/97189762-4ad11500-17e8-11eb-84f8-a583da68c2a7.png)
 
 
 2. Sharpe Ratio
 - ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
-- assumed 'risk-free rate' as 1% interest of Kakao bank saving.
+- assumed 'risk-free rate' as 1% interest of Kakao bank saving
+
 ![Screen Shot 2020-10-27 at 0 06 55](https://user-images.githubusercontent.com/68367134/97189772-4c9ad880-17e8-11eb-8a2f-3387957e53ef.png)
 
 ## Conclusion
