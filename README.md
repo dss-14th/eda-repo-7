@@ -108,4 +108,5 @@ ETF
     3. 4,000,000 wons - 3,637 dollars
     4. impossible to buy more funds over 4,000,000 wons, and ignore the rest of investment money
     5. ignore dividend of ETF
+
 ![Screen Shot 2020-10-27 at 0 08 47](https://user-images.githubusercontent.com/68367134/97189958-866bdf00-17e8-11eb-8ecd-df0ad0eaf3ff.png)
