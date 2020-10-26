@@ -34,10 +34,16 @@ ETF
 * High Relative Poverty Rate for the Elderly in Korea
 ![1](https://user-images.githubusercontent.com/68367134/97185204-20308d80-17e3-11eb-80ba-af56ae278924.png)
 
+
 ## Data Processing
-- rate of weely return(rwr)
-![Screen Shot 2020-10-26 at 23 31 56](https://user-images.githubusercontent.com/68367134/97185449-6ab20a00-17e3-11eb-8b87-cc77ababbf96.png)
-- rate of cumulative return(rcr)
-![Screen Shot 2020-10-26 at 23 32 03](https://user-images.githubusercontent.com/68367134/97185458-6c7bcd80-17e3-11eb-9b03-e9354a267c87.png)
-- comparison rcr by asset types
+
+* comparison rate of cumulative return by asset types
+![Screen Shot 2020-10-26 at 23 34 28](https://user-images.githubusercontent.com/68367134/97185701-bbc1fe00-17e3-11eb-9d31-46d8ad0e3895.png)
+
+
+### Portfolio
+- portfolio_1 : stock 100%
+- portfolio_2 : stock 60% + long-term bond 40%
+- portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commidity 7.5% + gold 7.5%
+
 
