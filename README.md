@@ -88,7 +88,21 @@ ETF
 #### Risk(Volatility)
 1. Standard Deviation
 - calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
+![Screen Shot 2020-10-27 at 0 06 48](https://user-images.githubusercontent.com/68367134/97189762-4ad11500-17e8-11eb-84f8-a583da68c2a7.png)
+
 
 2. Sharpe Ratio
 - ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
 - assumed 'risk-free rate' as 1% interest of Kakao bank saving.
+![Screen Shot 2020-10-27 at 0 06 55](https://user-images.githubusercontent.com/68367134/97189772-4c9ad880-17e8-11eb-8a2f-3387957e53ef.png)
+
+## Conclusion
+- what would the expected return if a person who start to invest our retirement fund from 30-year old to 59-year old? 
+- assumption
+    1. buying once a year by price on last week of every June
+    2. setting up the exchange ratio as 1,100 won to 1 dollar
+    3. 4,000,000 wons - 3,637 dollars
+    4. impossible to buy more funds over 4,000,000 wons, and ignore the rest of investment money
+    5. ignore dividend of ETF
+    
+    
