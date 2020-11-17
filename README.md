@@ -8,7 +8,7 @@ team: 이태헌, 김희주
 
 ### Backtesting
 * We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
-* As the purpose of this project is study, we didn't consider allocation, dividend tax, rebalancing and just focused on the 5 indexes and ETF final result.
+* As the purpose of this project is study, we didn't consider allocation, dividend tax, rebalancing and just focused on the 5 indexes and ETF close data.
 
 #### Steps for backtesting 
 * Define strategy
