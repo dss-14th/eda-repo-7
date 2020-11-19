@@ -8,10 +8,10 @@ team: 이태헌, 김희주
 
 ### Backtesting
 * We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
-* As the purpose of this project is study, we didn't consider allocation, dividend tax, rebalancing and just focused on the 5 indexes and ETF close data.
+* As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices and ETF close data in traditional all-weather-portfolio.
 
 #### Steps for backtesting 
-* Define strategy
+
 * Back Test using historical data
 * Result Analysis
 * Develop portfolio based on analysis
@@ -31,10 +31,6 @@ ETF
     feature: weakly data
     period: 2006.06.26 ~ 2020.06.29(15 years)
     
-### Define a Problem
-* High Relative Poverty Rate for the Elderly in Korea
-![1](https://user-images.githubusercontent.com/68367134/97185204-20308d80-17e3-11eb-80ba-af56ae278924.png)
-
 
 ## Data Processing
 
