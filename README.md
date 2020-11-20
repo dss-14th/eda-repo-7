@@ -4,6 +4,12 @@
 
 In this project, we developed the asset allocation portforlio in order to secure stable funds after retirement. This project based on Data Mining and Economic statistics.
 
+#### Data Sources : [Investing.com](https://www.investing.com/)
+
+    Index: SP_Index, Interm_Index, Longterm_Index, Commodity_Index, Gold_Index
+    feature : weekly data
+    period: 1996.07.01 ~ 2020.06.29(25 years)
+
 team: 이태헌, 김희주
 
 ## Backtesting
@@ -32,8 +38,4 @@ team: 이태헌, 김희주
    - It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
    
 
-#### Data Sources : [Investing.com](https://www.investing.com/)
 
-    Index: SP_Index, Interm_Index, Longterm_Index, Commodity_Index, Gold_Index
-    feature : weekly data
-    period: 1996.07.01 ~ 2020.06.29(25 years)
