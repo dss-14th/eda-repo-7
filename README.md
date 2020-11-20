@@ -9,7 +9,7 @@ team: 이태헌, 김희주
 ## Backtesting
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
-### 1. Understanding 5 Index close data
+### 1. Understanding 5 Indices close data
 - Comparison about rate of cumulative return by asset types
 
 ### 2. Traditional Asset Allocation Portfolio
