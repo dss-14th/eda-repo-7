@@ -24,8 +24,7 @@ team: 이태헌, 김희주
 * Result Analysis
 
 
-### Data Sources : [Investing.com](https://www.investing.com/)
-   Index 
+### 3. Data Sources : [Investing.com](https://www.investing.com/)
 
     Index: SP_Index, Interm_Index, Longterm_Index, Commodity_Index, Gold_Index
     feature : weekly data
