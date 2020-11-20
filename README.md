@@ -24,7 +24,7 @@ team: 이태헌, 김희주
         - portfolio_2 : stock 60% + long-term bond 40%
         - portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commodity 7.5% + gold 7.5%
         
-<img src="https://user-images.githubusercontent.com/68367134/97185929-06dc1100-17e4-11eb-95c9-7f75cdcb5d45.png" width="700">
+        <img src="https://user-images.githubusercontent.com/68367134/97185929-06dc1100-17e4-11eb-95c9-7f75cdcb5d45.png" width="700">
 
 ### 3. Trend Analysis about Rate of Cumulative Return by the Portfolios
    - All_weather portfolio doesn't seem to be the best portfolio in terms of investment, since the rate of cumulative return is 170% over the last 25 years even though it's safer than any others. 
