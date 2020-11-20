@@ -8,15 +8,12 @@ team: 이태헌, 김희주
 
 ### Backtesting
 * We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
-* As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices and ETF close data in traditional all-weather-portfolio.
+* As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
 #### Steps for backtesting 
-
+* Preprocessing
 * Back Test using historical data
 * Result Analysis
-* Develop portfolio based on analysis
-* Compare profitability,volatility prediction
-
 
 ### Data Sources : [Investing.com](https://www.investing.com/)
 Index 
@@ -25,12 +22,6 @@ Index
     feature : weekly data
     period: 1996.07.01 ~ 2020.06.29(25 years)
     
-ETF    
-
-    ETF: SPY, IEF, TLT, DBC, GLD
-    feature: weakly data
-    period: 2006.06.26 ~ 2020.06.29(15 years)
-    
 
 ## Data Processing
 
@@ -38,12 +29,11 @@ ETF
 ![Screen Shot 2020-10-26 at 23 34 28](https://user-images.githubusercontent.com/68367134/97185701-bbc1fe00-17e3-11eb-9d31-46d8ad0e3895.png)
 
 
-### Portfolio
+### Traditional Asset Allocation Portfolio
 - portfolio_1 : stock 100%
 - portfolio_2 : stock 60% + long-term bond 40%
 - portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commidity 7.5% + gold 7.5%
 ![Screen Shot 2020-10-26 at 23 36 33](https://user-images.githubusercontent.com/68367134/97185929-06dc1100-17e4-11eb-95c9-7f75cdcb5d45.png)
-
 
 
 ### Trend Analysis about Rate of Cumulative Return by the Portfolios
@@ -56,9 +46,6 @@ ETF
 ### New Portfolio
 - increasing the weight of the assets which are more correlated with SP_500(stock) 
 
-* Correlation Matrix 
-![Screen Shot 2020-10-26 at 23 44 02](https://user-images.githubusercontent.com/68367134/97187148-84545100-17e5-11eb-8992-461f91ff97bf.png)
-
 * New Portfolio's Composition
 ![Screen Shot 2020-10-26 at 23 44 19](https://user-images.githubusercontent.com/68367134/97187167-89190500-17e5-11eb-88e9-afc4ef46af18.png)
 
@@ -67,12 +54,6 @@ ETF
 - All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns
 ![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
 ![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
-
-## Retirement Fund
-- To launch a service with the All-weather portfolio 4
-- The fund consists of the sum of ETF assets' price after dividing by 500.
-- Prices are based on ratio of the All-weather portfolio 4.
-![Screen Shot 2020-10-26 at 23 59 50](https://user-images.githubusercontent.com/68367134/97188822-4821f000-17e7-11eb-91fa-51fb6c55f947.png)
 
 ### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
 #### Perfomance Metrics
@@ -97,13 +78,3 @@ ETF
 
 ## Conclusion
 - It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
-
-### What would the expected return if a person who start to invest our retirement fund from 30-year old to 59-year old? 
-- Assumption
-    1. buying once a year by price on last week of every June
-    2. setting up the exchange ratio as 1,100 won to 1 dollar
-    3. 4,000,000 wons - 3,637 dollars
-    4. impossible to buy more funds over 4,000,000 wons, and ignore the rest of investment money
-    5. ignore dividend of ETF
-
-![Screen Shot 2020-10-27 at 0 08 47](https://user-images.githubusercontent.com/68367134/97189958-866bdf00-17e8-11eb-8ecd-df0ad0eaf3ff.png)
