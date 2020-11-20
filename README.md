@@ -7,7 +7,6 @@ In this project, we developed the asset allocation portforlio in order to secure
 team: 이태헌, 김희주
 
 ## Backtesting
-* We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
 ### 1. Backtest component
@@ -49,7 +48,7 @@ team: 이태헌, 김희주
    - Compose New Portfolios(4 portfolios) based on traditional all-weather portfolio increasing the weight of the assets which are more correlated with SP_500(stock) 
 
 ### 4. Trend Analysis about Rate of Cumulative Return by New Portfolios
-   - Backtest Result for All-weather portfolio 4
+   - Backtest Result for All-weather portfolios
 
 ## Conclusion
    - It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
