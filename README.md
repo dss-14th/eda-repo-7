@@ -39,7 +39,7 @@ Index
 ### Trend Analysis about Rate of Cumulative Return by the Portfolios
 * Backtest Result for the Traditional All-weather
 - All_weather portfolio doesn't seem to be the best portfolio in terms of investment, since the rate of cumulative return is 170% over the last 25 years even though it's safer than any others. 
-- Therefore, we think that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
+- Therefore, we assumed that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
 ![Screen Shot 2020-10-26 at 23 38 41](https://user-images.githubusercontent.com/68367134/97186200-57536e80-17e4-11eb-955e-f9ee4a33291c.png)
 ![Screen Shot 2020-10-26 at 23 38 47](https://user-images.githubusercontent.com/68367134/97186205-58849b80-17e4-11eb-9c49-d2c82c3f3c60.png)
     
@@ -63,18 +63,13 @@ Index
 - Yearly Average Log Rate of Return for All-weather Portfolio 4
 ![Screen Shot 2020-10-27 at 0 03 17](https://user-images.githubusercontent.com/68367134/97189266-bd8dc080-17e7-11eb-82c9-f8faceeaf98a.png)
 
-#### Risk(Volatility)
+#### Backtest component
 1. Standard Deviation
 - calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
-
-![Screen Shot 2020-10-27 at 0 06 48](https://user-images.githubusercontent.com/68367134/97189762-4ad11500-17e8-11eb-84f8-a583da68c2a7.png)
-
 
 2. Sharpe Ratio
 - ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
 - assumed 'risk-free rate' as 1% interest of Kakao bank saving
-
-![Screen Shot 2020-10-27 at 0 06 55](https://user-images.githubusercontent.com/68367134/97189772-4c9ad880-17e8-11eb-8a2f-3387957e53ef.png)
 
 ## Conclusion
 - It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
