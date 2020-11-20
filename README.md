@@ -10,20 +10,29 @@ team: 이태헌, 김희주
 * We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
+### Backtest component
+1. Standard Deviation
+- calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
+
+2. Sharpe Ratio
+- ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
+- assumed 'risk-free rate' as 1% interest of Kakao bank saving
+
 #### Steps for backtesting 
 * Preprocessing
 * Back Test using historical data
 * Result Analysis
 
+
 ### Data Sources : [Investing.com](https://www.investing.com/)
-Index 
+   Index 
 
     Index: SP_Index, Interm_Index, Longterm_Index, Commodity_Index, Gold_Index
     feature : weekly data
     period: 1996.07.01 ~ 2020.06.29(25 years)
     
 
-## Data Processing
+## Data Analysis
 
 * comparison about rate of cumulative return by asset types
 ![Screen Shot 2020-10-26 at 23 34 28](https://user-images.githubusercontent.com/68367134/97185701-bbc1fe00-17e3-11eb-9d31-46d8ad0e3895.png)
@@ -53,13 +62,6 @@ Index
 - All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns
 ![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
 
-### Backtest component
-1. Standard Deviation
-- calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
-
-2. Sharpe Ratio
-- ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
-- assumed 'risk-free rate' as 1% interest of Kakao bank saving
 
 ## Conclusion
 - It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
