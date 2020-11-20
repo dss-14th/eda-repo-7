@@ -10,7 +10,7 @@ team: 이태헌, 김희주
 * We downloaded stock trading data and extract close data. Then we analyzed correlation between 5 indexes and profitability & volatility.
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
-### Backtest component
+### 1. Backtest component
 1. Standard Deviation
 - calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
 
@@ -18,7 +18,7 @@ team: 이태헌, 김희주
 - ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
 - assumed 'risk-free rate' as 1% interest of Kakao bank saving
 
-### Steps for backtesting 
+### 2. Steps for backtesting 
 * Preprocessing & Backtesting using historical data
 * Compose new portfolio
 * Result Analysis
