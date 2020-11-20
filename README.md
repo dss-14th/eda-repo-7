@@ -15,23 +15,27 @@ team: 이태헌, 김희주
 ## Backtesting
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
-### 1. Understanding 5 Indices close data
+#### 1. Understanding 5 Indices close data
 - Comparison of weekly return and cumulative return by asset types(stock, long-term, mid-term, commodity, gold)
 
-### 2. Traditional Asset Allocation Portfolio
+#### 2. Traditional Asset Allocation Portfolio
 - portfolio_1 : stock 100%
 - portfolio_2 : stock 60% + long-term bond 40%
 - portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commodity 7.5% + gold 7.5%
 
-### 3. Trend Analysis about Rate of Cumulative Return by the Portfolios
+#### 3. Trend Analysis about Rate of Cumulative Return by the Portfolios
 * Backtest Result for the Traditional All-weather
    - All_weather portfolio doesn't seem to be the best portfolio in terms of investment, since the rate of cumulative return is 170% over the last 25 years even though it's safer than any others. 
    - Therefore, we assumed that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
     
-### 4. Compose New Portfolio
+#### 4. Compose New Portfolio
    - Compose New Portfolios(4 portfolios) based on traditional all-weather portfolio increasing the weight of the assets which are more correlated with SP_500(stock) 
+   - all_weather2 :  stock 30% + long-term bond 40% + mid-term bond 5% + commodity 5% + gold 20%
+   - all_weather3 :  stock 40% + long-term bond 30% + mid-term bond 5% + commodity 5% + gold 20%
+   - all_weather4 :  stock 50% + long-term bond 20% + mid-term bond 5% + commodity 5% + gold 20%
+   - all_weather5 :  stock 50% + long-term bond 20% + mid-term bond 10% + commodity 5% + gold 15%
 
-### 5. Trend Analysis about Rate of Cumulative Return by New Portfolios
+#### 5. Trend Analysis about Rate of Cumulative Return by New Portfolios
    - Backtest Result for All-weather portfolios
 
 ## Conclusion
