@@ -10,12 +10,12 @@ team: 이태헌, 김희주
 * As the purpose of this project is for study, we didn't consider allocation, dividend tax, rebalancing and just focused on the indices close data in traditional all-weather-portfolio.
 
 ### 1. Understanding 5 Indices close data
-- Comparison about rate of cumulative return by asset types
+- Comparison of weekly return and cumulative return by asset types(stock, long-term, mid-term, commodity, gold)
 
 ### 2. Traditional Asset Allocation Portfolio
 - portfolio_1 : stock 100%
 - portfolio_2 : stock 60% + long-term bond 40%
-- portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commidity 7.5% + gold 7.5%
+- portfolio_3 : All_Weather : stock 30% + long-term bond 40% + mid-term bond 15% + commodity 7.5% + gold 7.5%
 
 ### 3. Trend Analysis about Rate of Cumulative Return by the Portfolios
 * Backtest Result for the Traditional All-weather
