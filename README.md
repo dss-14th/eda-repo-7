@@ -41,7 +41,6 @@ Index
 - All_weather portfolio doesn't seem to be the best portfolio in terms of investment, since the rate of cumulative return is 170% over the last 25 years even though it's safer than any others. 
 - Therefore, we assumed that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
 ![Screen Shot 2020-10-26 at 23 38 41](https://user-images.githubusercontent.com/68367134/97186200-57536e80-17e4-11eb-955e-f9ee4a33291c.png)
-![Screen Shot 2020-10-26 at 23 38 47](https://user-images.githubusercontent.com/68367134/97186205-58849b80-17e4-11eb-9c49-d2c82c3f3c60.png)
     
 ### New Portfolio
 - increasing the weight of the assets which are more correlated with SP_500(stock) 
@@ -53,7 +52,6 @@ Index
 * Backtest Result for All-weather portfolio 4
 - All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns
 ![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
-![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
 ### Backtest component
 1. Standard Deviation
