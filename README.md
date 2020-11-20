@@ -34,6 +34,7 @@ team: 이태헌, 김희주
         - all_weather3 :  stock 40% + long-term bond 30% + mid-term bond 5% + commodity 5% + gold 20%
         - all_weather4 :  stock 50% + long-term bond 20% + mid-term bond 5% + commodity 5% + gold 20%
         - all_weather5 :  stock 50% + long-term bond 20% + mid-term bond 10% + commodity 5% + gold 15%
+        ![Screen Shot 2020-10-26 at 23 44 19](https://user-images.githubusercontent.com/68367134/97187167-89190500-17e5-11eb-88e9-afc4ef46af18.png)
 
 ### 5. Trend Analysis about Rate of Cumulative Return by New Portfolios
 
