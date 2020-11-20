@@ -55,15 +55,7 @@ Index
 ![Screen Shot 2020-10-26 at 23 44 32](https://user-images.githubusercontent.com/68367134/97187181-8cac8c00-17e5-11eb-9a67-ab45fe01427e.png)
 ![Screen Shot 2020-10-26 at 23 44 43](https://user-images.githubusercontent.com/68367134/97187192-90401300-17e5-11eb-8eb9-6433454d02e3.png)
 
-### EXPECTED RATE OF RETURN AND RISKS OF RETIREMENT FUND
-#### Perfomance Metrics
-- Yearly Average Log Rate of Return
-![Screen Shot 2020-10-27 at 0 16 34](https://user-images.githubusercontent.com/68367134/97190889-a059f180-17e9-11eb-92df-f7e809185df1.png)
-
-- Yearly Average Log Rate of Return for All-weather Portfolio 4
-![Screen Shot 2020-10-27 at 0 03 17](https://user-images.githubusercontent.com/68367134/97189266-bd8dc080-17e7-11eb-82c9-f8faceeaf98a.png)
-
-#### Backtest component
+### Backtest component
 1. Standard Deviation
 - calcualtion of standard deviation to see the possibility if the portfolio can achieve expected rate of return
 
