@@ -29,11 +29,11 @@ team: 이태헌, 김희주
    - Therefore, we assumed that it would be valuable to build a new portfolio that is able to make more returns as maintaining the safeness of All_Weather portfolio.
     
 #### 4. Compose New Portfolio
-   - Compose New Portfolios(4 portfolios) based on traditional all-weather portfolio increasing the weight of the assets which are more correlated with SP_500(stock) 
-   - all_weather2 :  stock 30% + long-term bond 40% + mid-term bond 5% + commodity 5% + gold 20%
-   - all_weather3 :  stock 40% + long-term bond 30% + mid-term bond 5% + commodity 5% + gold 20%
-   - all_weather4 :  stock 50% + long-term bond 20% + mid-term bond 5% + commodity 5% + gold 20%
-   - all_weather5 :  stock 50% + long-term bond 20% + mid-term bond 10% + commodity 5% + gold 15%
+   - Compose New Portfolios based on traditional all-weather portfolio increasing the weight of the assets which are more correlated with SP_500(stock) 
+        - all_weather2 :  stock 30% + long-term bond 40% + mid-term bond 5% + commodity 5% + gold 20%
+        - all_weather3 :  stock 40% + long-term bond 30% + mid-term bond 5% + commodity 5% + gold 20%
+        - all_weather4 :  stock 50% + long-term bond 20% + mid-term bond 5% + commodity 5% + gold 20%
+        - all_weather5 :  stock 50% + long-term bond 20% + mid-term bond 10% + commodity 5% + gold 15%
 
 #### 5. Trend Analysis about Rate of Cumulative Return by New Portfolios
    - Backtest Result for All-weather portfolios
