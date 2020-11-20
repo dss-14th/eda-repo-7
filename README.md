@@ -1,6 +1,7 @@
 # Stock-Trading Backtesting and Data Analysis
 
-### Develop profitable asset allocation portforlio better than traditional All-weather portfolio
+### Develop profitable asset allocation portforlio better than traditional All-weather-portfolio
+#### Is All-weather-portfolio the only and the best ? 
 
 In this project, we developed the asset allocation portforlio in order to secure stable funds after retirement. This project based on Data Mining and Economic statistics.
 
@@ -18,9 +19,9 @@ team: 이태헌, 김희주
 - ('return of portfolio' - 'risk-free rate') / (standard deviation of the portfolio’s excess return)
 - assumed 'risk-free rate' as 1% interest of Kakao bank saving
 
-#### Steps for backtesting 
-* Preprocessing
-* Back Test using historical data
+### Steps for backtesting 
+* Preprocessing & Backtesting using historical data
+* Compose new portfolio
 * Result Analysis
 
 
