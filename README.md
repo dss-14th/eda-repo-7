@@ -43,8 +43,5 @@ team: 이태헌, 김희주
 ### 5. Trend Analysis about Rate of Cumulative Return by New Portfolios
 
 ## Conclusion
-   - According to our assumption, it is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment. 
-    - All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns among All-weather portfolios, and the second highest in all types.
-    - Given that All-weather portfolio 4 is the second highest score in CAGR and Worst year is twice as small as Stock100, All-weather portfolio 4 can be considered as the best portfilio that records higher return than the averages ones with a little risk.
-
-
+- It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment, given that All-weather portfolio 4 is the second highest score in CAGR and Worst year is twice as small as Stock100. 
+- All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns among All-weather portfolios, and the second highest in all types.
