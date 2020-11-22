@@ -44,5 +44,4 @@ team: 이태헌, 김희주
 ![Screen Shot 2020-11-22 at 19 19 05](https://user-images.githubusercontent.com/68367134/99901123-a0b9af80-2cf7-11eb-8234-7fb0139c2166.png)
 
 ## Conclusion
-- It is found that All-weather portfolio 4 is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment, given that All-weather portfolio 4 is the second highest score in CAGR and Worst year is twice as small as Stock100. 
-- All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) records the highest cumulative returns with decreased numbers of negative returns among All-weather portfolios, and the second highest in all types.
+- It is found that All-weather portfolio 4(stock 50%, long_bond 20%, mid_bond 5%, commodity 5%, gold 20%) is the best 'assest allocation portfolio' to increase returns with the limited risk of loosing investment, given that All-weather portfolio 4 is the second highest score in CAGR and Worst year is twice as small as Stock100.
