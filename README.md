@@ -16,7 +16,7 @@ team: 이태헌, 김희주
 * As the purpose of this project is for study, we didn't consider dividends, rebalancing and just focused on the indices of the close data in traditional all-weather-portfolio.
 
 ### 1. Understanding of 5 Indices close data
-- Analyzed weekly return and cumulative return by asset types(stock, long-term, mid-term, commodity, gold)
+- Analyzed weekly return and cumulative return by asset types(stock, long-term bond, mid-term bond, commodity, gold)
 
 ### 2. Traditional Asset Allocation Portfolio
    - Visualized and Compared traditional asset allocation portfolio.
