@@ -1,6 +1,6 @@
 # Asset Allocation Portfolios Backtesting
 
-### Develop profitable asset allocation portforlio better than traditional All-weather-portfolio
+### Develope profitable asset allocation portforlio better than traditional All-weather-portfolio
 
 In this project, we developed the asset allocation portfolio in order to secure stable return. This project is based on Data Mining and Economic statistics.
 
