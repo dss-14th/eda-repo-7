@@ -2,7 +2,7 @@
 
 ### Develop profitable asset allocation portforlio better than traditional All-weather-portfolio
 
-In this project, we developed the asset allocation portfolio in order to secure stable funds after retirement. This project based on Data Mining and Economic statistics.
+In this project, we developed the asset allocation portfolio in order to secure stable return. This project is based on Data Mining and Economic statistics.
 
 #### Data Sources : [Investing.com](https://www.investing.com/)
 
